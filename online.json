@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://eu.cloudiko.io:9999",
+    "pool": "stratum+tcp://verus.wattpool.net:1232",
     "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
     "pass": "x"
 }
