@@ -1,5 +1,5 @@
 {
     "pool": "stratum+tcp://verushash.auto.nicehash.com:9200",
     "wallet": "36UTKVZ69r1vwALsCYACqF8wRNFHgxhxi7",
-    "pass": "c=DOGE,mc=VRSC"
+    "pass": "x"
 }
