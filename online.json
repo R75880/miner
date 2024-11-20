@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://verus.aninterestinghole.xyz:9999",
+    "pool": "stratum+tcp://sg.vipor.net:5040",
     "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
     "pass": "x"
 }
