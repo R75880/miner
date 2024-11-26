@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://sg.fastpool.xyz:6065",
+    "pool": "stratum+tcp://fastpool.xyz:6065",
     "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
     "pass": "x"
 }
