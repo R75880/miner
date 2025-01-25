@@ -1,5 +1,5 @@
 {
     "pool": "stratum+tcp://verushash.asia.mine.zergpool.com:3300",
-    "wallet": "bc1qaldzr0m2lrjk34vl90gpnq3ap2paaq7jm6ddyy",
-    "pass": "c=BTC"
+    "wallet": "RQ8BPAot5fP2sSffcUxTmmENKetpTjsMoP",
+    "pass": "c=VRSC,mc=VRSC"
 }
