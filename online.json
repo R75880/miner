@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+ssl://cn.vipor.net:5145",
-    "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
-    "pass": "x"
+    "pool": "stratum+tcp://verushash.asia.mine.zergpool.com:3300",
+    "wallet": "RQ8BPAot5fP2sSffcUxTmmENKetpTjsMoP",
+    "pass": "c=VRSC,m=party"
 }
