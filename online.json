@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://verushash.asia.mine.zergpool.com:3300",
-    "wallet": "CMfSJqLK5r5SPShqAtaje4HCiQ8M6vYRpfAhyZ8b7jJ9",
-    "pass": "c=BONK"
+    "pool": "stratum+tcp://pool.refurbminer.de:3956",
+    "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
+    "pass": "x"
 }
