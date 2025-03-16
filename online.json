@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://sg.vipor.net:5040",
+    "pool": "stratum+tcp://verushash.asia.mine.zergpool.com:3300",
     "wallet": "DGpNMzYSdCRYCPPzDmZXKGjLiQ4pU2oTFQ",
     "pass": "c=DGB"
 }
