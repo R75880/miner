@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://vrsc.verus.jellyfc.com:3092",
+    "pool": "stratum+tcp://pool.refurbminer.de:3956",
     "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
     "pass": "x"
 }
