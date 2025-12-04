@@ -1,5 +1,5 @@
 {
     "pool": "stratum+tcp://verushash.jp.mine.zpool.ca:6143",
     "wallet": "RTbn4wpy74wF4EVn5WUGHM6f7YyBZGCd7C",
-    "pass": "c=<VRSC>,zap=VRSC"
+    "pass": "c=VRSC,zap=VRSC"
 }
